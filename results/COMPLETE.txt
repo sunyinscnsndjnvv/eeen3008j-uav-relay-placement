@@ -1,0 +1,4 @@
+started_utc=2026-11-16T09:31:03.126548100Z
+finished_utc=2026-11-16T09:31:26.392065400Z
+rows=2400
+elapsed_seconds=23.2244753

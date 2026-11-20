@@ -1,0 +1,721 @@
+cohort,error_m,shadow,backhaul,metric,unit,left,right,left_minus_right,ci_low,ci_high
+original,0,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,light,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,light,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,light,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,light,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,heavy,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,heavy,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,0,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,0,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,0,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,0,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,0,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,0,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,0,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,0,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,10,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,10,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,10,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,10,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,10,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,10,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.000369840744,-0.000946469273,0.000206787785
+original,10,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.000369840744,-0.000946469273,0.000206787785
+original,10,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.0148672845,-0.0188008463,-0.0109337228
+original,10,light,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.0148672845,-0.0188008463,-0.0109337228
+original,10,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,10,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,10,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,10,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,light,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,light,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,light,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,weak,outage,percentage points,N-grid,N-margin,2.688,1.81021393,3.56578607
+original,10,heavy,weak,outage,percentage points,R-grid,R-margin,0.032,-0.0349767697,0.0989767697
+original,10,heavy,weak,outage,percentage points,N-grid,R-grid,2.656,1.75923801,3.55276199
+original,10,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.00020322541,-0.000584879116,0.000178428295
+original,10,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.00020322541,-0.000584879116,0.000178428295
+original,10,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.0113958476,-0.0154008276,-0.00739086768
+original,10,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-5.25791214e-05,-0.000162628487,5.74702444e-05
+original,10,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.0113432685,-0.0153787777,-0.00730775928
+original,10,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,10,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,10,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,10,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,10,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,10,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,10,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,10,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,10,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,10,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,10,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,10,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,25,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,25,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,25,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,25,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,25,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,25,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.00664649735,-0.0110807831,-0.0022122116
+original,25,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.00664649735,-0.0110807831,-0.0022122116
+original,25,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.0568231125,-0.0613818861,-0.0522643389
+original,25,light,medium,worst_bps,Mbps,R-grid,R-margin,-0.000350872909,-0.000878523709,0.000176777891
+original,25,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.0564722396,-0.0611198738,-0.0518246054
+original,25,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,25,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,25,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,25,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,light,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,light,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,light,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,light,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,weak,outage,percentage points,N-grid,N-margin,5.4195,4.34818922,6.49081078
+original,25,heavy,weak,outage,percentage points,R-grid,R-margin,0.1185,0.0263709591,0.210629041
+original,25,heavy,weak,outage,percentage points,N-grid,R-grid,5.301,4.23536403,6.36663597
+original,25,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.0059058129,-0.00991952595,-0.00189209985
+original,25,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.0059058129,-0.00991952595,-0.00189209985
+original,25,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.0460654263,-0.0500835686,-0.0420472841
+original,25,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-0.000227344908,-0.00070318327,0.000248493453
+original,25,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.0458380814,-0.0497902692,-0.0418858937
+original,25,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,25,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,25,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,25,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,25,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,25,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,25,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,25,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,25,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,25,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,25,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,25,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,50,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,50,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,50,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,50,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,50,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,50,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,50,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,50,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,50,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,50,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.0301067825,-0.0415377709,-0.018675794
+original,50,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.0301067825,-0.0415377709,-0.018675794
+original,50,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.125430931,-0.129866874,-0.120994987
+original,50,light,medium,worst_bps,Mbps,R-grid,R-margin,-0.000484232872,-0.00136466772,0.000396201972
+original,50,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.124946698,-0.129269529,-0.120623866
+original,50,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,50,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,50,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,50,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,50,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,light,strong,pooled_bps,Mbps,N-grid,R-grid,0.00426691878,-0.000234390753,0.00876822832
+original,50,light,strong,pooled_bps,Mbps,N-margin,R-margin,0.00426691878,-0.000234390753,0.00876822832
+original,50,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,light,strong,worst_bps,Mbps,N-grid,R-grid,-0.00190987919,-0.00917331609,0.0053535577
+original,50,light,strong,worst_bps,Mbps,N-margin,R-margin,-0.00190987919,-0.00917331609,0.0053535577
+original,50,heavy,weak,outage,percentage points,N-grid,N-margin,7.521,6.26703494,8.77496506
+original,50,heavy,weak,outage,percentage points,R-grid,R-margin,0.1875,0.0766968447,0.298303155
+original,50,heavy,weak,outage,percentage points,N-grid,R-grid,7.292,6.03074484,8.55325516
+original,50,heavy,weak,outage,percentage points,N-margin,R-margin,-0.0415,-0.128360498,0.0453604983
+original,50,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.029911543,-0.0392499244,-0.0205731617
+original,50,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.029911543,-0.0392499244,-0.0205731617
+original,50,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,50,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.093445504,-0.101364987,-0.0855260214
+original,50,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-0.000453924138,-0.00107864695,0.000170798678
+original,50,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.0927932926,-0.10094058,-0.0846460055
+original,50,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0.000198287227,-0.000216732709,0.000613307163
+original,50,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,50,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,50,heavy,medium,outage,percentage points,N-grid,R-grid,-0.0415,-0.128360498,0.0453604983
+original,50,heavy,medium,outage,percentage points,N-margin,R-margin,-0.0415,-0.128360498,0.0453604983
+original,50,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0.00234740517,-0.000369313694,0.00506412404
+original,50,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0.00234740517,-0.000369313694,0.00506412404
+original,50,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0.000781032718,-0.000161212885,0.00172327832
+original,50,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0.000781032718,-0.000161212885,0.00172327832
+original,50,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,50,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,50,heavy,strong,outage,percentage points,N-grid,R-grid,-0.0415,-0.128360498,0.0453604983
+original,50,heavy,strong,outage,percentage points,N-margin,R-margin,-0.0415,-0.128360498,0.0453604983
+original,50,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0.00234740517,-0.000369313694,0.00506412404
+original,50,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0.00234740517,-0.000369313694,0.00506412404
+original,50,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,50,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,50,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0.000781032718,-0.000161212885,0.00172327832
+original,50,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0.000781032718,-0.000161212885,0.00172327832
+original,100,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+original,100,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+original,100,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+original,100,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+original,100,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+original,100,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,100,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+original,100,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,100,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,100,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,100,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+original,100,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+original,100,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.105209758,-0.12319534,-0.0872241762
+original,100,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.105209758,-0.12319534,-0.0872241762
+original,100,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+original,100,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.243565669,-0.251514396,-0.235616941
+original,100,light,medium,worst_bps,Mbps,R-grid,R-margin,-0.000239623522,-0.000741161318,0.000261914274
+original,100,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.243326045,-0.251308688,-0.235343403
+original,100,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+original,100,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,100,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,100,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+original,100,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+original,100,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,light,strong,pooled_bps,Mbps,N-grid,R-grid,0.00379767004,-0.00686580558,0.0144611457
+original,100,light,strong,pooled_bps,Mbps,N-margin,R-margin,0.00379767004,-0.00686580558,0.0144611457
+original,100,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,light,strong,worst_bps,Mbps,N-grid,R-grid,-0.00548238835,-0.0127796262,0.00181484953
+original,100,light,strong,worst_bps,Mbps,N-margin,R-margin,-0.00548238835,-0.0127796262,0.00181484953
+original,100,heavy,weak,outage,percentage points,N-grid,N-margin,9.4185,7.9203719,10.9166281
+original,100,heavy,weak,outage,percentage points,R-grid,R-margin,0.1715,0.0640949736,0.278905026
+original,100,heavy,weak,outage,percentage points,N-grid,R-grid,9.228,7.76509935,10.6909006
+original,100,heavy,weak,outage,percentage points,N-margin,R-margin,-0.019,-0.0968546313,0.0588546313
+original,100,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.0899376628,-0.103208731,-0.0766665951
+original,100,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.0900735291,-0.103206082,-0.0769409763
+original,100,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,-0.000135866264,-0.000420237624,0.000148505095
+original,100,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.155217729,-0.174186822,-0.136248636
+original,100,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-0.000146351002,-0.000452667171,0.000159965166
+original,100,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.155645271,-0.173588445,-0.137702097
+original,100,heavy,weak,worst_bps,Mbps,N-margin,R-margin,-0.000573892557,-0.00222175507,0.00107396996
+original,100,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+original,100,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+original,100,heavy,medium,outage,percentage points,N-grid,R-grid,-0.019,-0.0968546313,0.0588546313
+original,100,heavy,medium,outage,percentage points,N-margin,R-margin,-0.019,-0.0968546313,0.0588546313
+original,100,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0.00347764639,-0.00253075862,0.00948605139
+original,100,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0.00347764639,-0.00253075862,0.00948605139
+original,100,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,heavy,medium,worst_bps,Mbps,N-grid,R-grid,-0.00122387463,-0.00332011036,0.000872361111
+original,100,heavy,medium,worst_bps,Mbps,N-margin,R-margin,-0.00122387463,-0.00332011036,0.000872361111
+original,100,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+original,100,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+original,100,heavy,strong,outage,percentage points,N-grid,R-grid,-0.019,-0.0968546313,0.0588546313
+original,100,heavy,strong,outage,percentage points,N-margin,R-margin,-0.019,-0.0968546313,0.0588546313
+original,100,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0.00347764639,-0.00253075862,0.00948605139
+original,100,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0.00347764639,-0.00253075862,0.00948605139
+original,100,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+original,100,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+original,100,heavy,strong,worst_bps,Mbps,N-grid,R-grid,-0.00122387463,-0.00332011036,0.000872361111
+original,100,heavy,strong,worst_bps,Mbps,N-margin,R-margin,-0.00122387463,-0.00332011036,0.000872361111
+second,0,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,light,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,light,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,light,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,light,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,heavy,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,heavy,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,0,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,0,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,0,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,0,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,0,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,0,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,0,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,0,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,10,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,10,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,10,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,10,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,10,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,10,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,10,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,10,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.000153044747,-0.000377132629,7.10431359e-05
+second,10,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.000153044747,-0.000377132629,7.10431359e-05
+second,10,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.0152990163,-0.0190905971,-0.0115074356
+second,10,light,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.0152990163,-0.0190905971,-0.0115074356
+second,10,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,10,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,10,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,10,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,strong,pooled_bps,Mbps,N-grid,R-grid,5.7788638e-05,-6.31643714e-05,0.000178741647
+second,10,light,strong,pooled_bps,Mbps,N-margin,R-margin,5.7788638e-05,-6.31643714e-05,0.000178741647
+second,10,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,light,strong,worst_bps,Mbps,N-grid,R-grid,-8.7212514e-05,-0.000269750404,9.53253756e-05
+second,10,light,strong,worst_bps,Mbps,N-margin,R-margin,-8.7212514e-05,-0.000269750404,9.53253756e-05
+second,10,heavy,weak,outage,percentage points,N-grid,N-margin,1.7085,0.983419783,2.43358022
+second,10,heavy,weak,outage,percentage points,R-grid,R-margin,0.0475,-0.00900705932,0.104007059
+second,10,heavy,weak,outage,percentage points,N-grid,R-grid,1.661,0.927309547,2.39469045
+second,10,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.000204140156,-0.000631410413,0.000223130101
+second,10,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.000204140156,-0.000631410413,0.000223130101
+second,10,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.00715297631,-0.0101244039,-0.00418154875
+second,10,heavy,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.00715297631,-0.0101244039,-0.00418154875
+second,10,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,10,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,10,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,10,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,10,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,4.17332172e-05,-4.56154103e-05,0.000129081845
+second,10,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,4.17332172e-05,-4.56154103e-05,0.000129081845
+second,10,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,medium,worst_bps,Mbps,N-grid,R-grid,-6.20590912e-05,-0.000191950262,6.78320794e-05
+second,10,heavy,medium,worst_bps,Mbps,N-margin,R-margin,-6.20590912e-05,-0.000191950262,6.78320794e-05
+second,10,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,10,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,10,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,10,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,10,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,4.17332172e-05,-4.56154103e-05,0.000129081845
+second,10,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,4.17332172e-05,-4.56154103e-05,0.000129081845
+second,10,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,10,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,10,heavy,strong,worst_bps,Mbps,N-grid,R-grid,-6.20590912e-05,-0.000191950262,6.78320794e-05
+second,10,heavy,strong,worst_bps,Mbps,N-margin,R-margin,-6.20590912e-05,-0.000191950262,6.78320794e-05
+second,25,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,25,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,25,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,25,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,25,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,25,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,25,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,25,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,25,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.00817987596,-0.0126946347,-0.00366511718
+second,25,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.00817987596,-0.0126946347,-0.00366511718
+second,25,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.0574895437,-0.0617582634,-0.053220824
+second,25,light,medium,worst_bps,Mbps,R-grid,R-margin,-7.23424215e-05,-0.00022375685,7.90720069e-05
+second,25,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.0574172013,-0.0616379843,-0.0531964182
+second,25,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,25,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,25,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,25,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,light,strong,pooled_bps,Mbps,N-grid,R-grid,0.00603559104,-0.00165862103,0.0137298031
+second,25,light,strong,pooled_bps,Mbps,N-margin,R-margin,0.00603559104,-0.00165862103,0.0137298031
+second,25,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,light,strong,worst_bps,Mbps,N-grid,R-grid,-7.099255e-07,-0.00105341801,0.00105199815
+second,25,light,strong,worst_bps,Mbps,N-margin,R-margin,-7.099255e-07,-0.00105341801,0.00105199815
+second,25,heavy,weak,outage,percentage points,N-grid,N-margin,4.713,3.7450166,5.6809834
+second,25,heavy,weak,outage,percentage points,R-grid,R-margin,0.085,0.0180249515,0.151975048
+second,25,heavy,weak,outage,percentage points,N-grid,R-grid,4.628,3.65222868,5.60377132
+second,25,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.00358007431,-0.00677654006,-0.000383608555
+second,25,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.00358007431,-0.00677654006,-0.000383608555
+second,25,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.0399350215,-0.0452106222,-0.0346594208
+second,25,heavy,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.0399350215,-0.0452106222,-0.0346594208
+second,25,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,25,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,25,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,25,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,25,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0.00474038252,-0.00139202381,0.0108727889
+second,25,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0.00474038252,-0.00139202381,0.0108727889
+second,25,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,medium,worst_bps,Mbps,N-grid,R-grid,4.09568846e-05,-0.000743404457,0.000825318226
+second,25,heavy,medium,worst_bps,Mbps,N-margin,R-margin,4.09568846e-05,-0.000743404457,0.000825318226
+second,25,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,25,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,25,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,25,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,25,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0.00474038252,-0.00139202381,0.0108727889
+second,25,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0.00474038252,-0.00139202381,0.0108727889
+second,25,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,25,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,25,heavy,strong,worst_bps,Mbps,N-grid,R-grid,4.09568846e-05,-0.000743404457,0.000825318226
+second,25,heavy,strong,worst_bps,Mbps,N-margin,R-margin,4.09568846e-05,-0.000743404457,0.000825318226
+second,50,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,50,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,50,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,50,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,50,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,50,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,50,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,50,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,50,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.0376364568,-0.0494592968,-0.0258136168
+second,50,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.0376364568,-0.0494592968,-0.0258136168
+second,50,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.125841671,-0.13016126,-0.121522082
+second,50,light,medium,worst_bps,Mbps,R-grid,R-margin,-0.000252525503,-0.000781067455,0.000276016449
+second,50,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.125589146,-0.129760659,-0.121417632
+second,50,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,50,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,50,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,50,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,light,strong,pooled_bps,Mbps,N-grid,R-grid,0.00651744857,-0.000984364463,0.0140192616
+second,50,light,strong,pooled_bps,Mbps,N-margin,R-margin,0.00651744857,-0.000984364463,0.0140192616
+second,50,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,light,strong,worst_bps,Mbps,N-grid,R-grid,0.000502190224,-0.00152312559,0.00252750604
+second,50,light,strong,worst_bps,Mbps,N-margin,R-margin,0.000502190224,-0.00152312559,0.00252750604
+second,50,heavy,weak,outage,percentage points,N-grid,N-margin,7.5655,6.40212434,8.72887566
+second,50,heavy,weak,outage,percentage points,R-grid,R-margin,0.188,0.100211097,0.275788903
+second,50,heavy,weak,outage,percentage points,N-grid,R-grid,7.3775,6.23365469,8.52134531
+second,50,heavy,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.0296090581,-0.0371816182,-0.0220364981
+second,50,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.0296090581,-0.0371816182,-0.0220364981
+second,50,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.0890367734,-0.0976295116,-0.0804440353
+second,50,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-0.000177861267,-0.000486625209,0.000130902676
+second,50,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.0888589122,-0.0974039485,-0.0803138758
+second,50,heavy,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,50,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,50,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,50,heavy,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,50,heavy,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0.00486532695,-0.000838446647,0.0105691006
+second,50,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0.00486532695,-0.000838446647,0.0105691006
+second,50,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0.000356925482,-0.00104386049,0.00175771145
+second,50,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0.000356925482,-0.00104386049,0.00175771145
+second,50,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,50,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,50,heavy,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,50,heavy,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,50,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0.00486532695,-0.000838446647,0.0105691006
+second,50,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0.00486532695,-0.000838446647,0.0105691006
+second,50,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,50,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,50,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0.000356925482,-0.00104386049,0.00175771145
+second,50,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0.000356925482,-0.00104386049,0.00175771145
+second,100,light,weak,outage,percentage points,N-grid,N-margin,0,0,0
+second,100,light,weak,outage,percentage points,R-grid,R-margin,0,0,0
+second,100,light,weak,outage,percentage points,N-grid,R-grid,0,0,0
+second,100,light,weak,outage,percentage points,N-margin,R-margin,0,0,0
+second,100,light,weak,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,light,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,light,weak,pooled_bps,Mbps,N-grid,R-grid,0,0,0
+second,100,light,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,100,light,weak,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,light,weak,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,light,weak,worst_bps,Mbps,N-grid,R-grid,0,0,0
+second,100,light,weak,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,100,light,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,100,light,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,100,light,medium,outage,percentage points,N-grid,R-grid,0,0,0
+second,100,light,medium,outage,percentage points,N-margin,R-margin,0,0,0
+second,100,light,medium,pooled_bps,Mbps,N-grid,N-margin,-0.120612279,-0.137653374,-0.103571184
+second,100,light,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,light,medium,pooled_bps,Mbps,N-grid,R-grid,-0.120612279,-0.137653374,-0.103571184
+second,100,light,medium,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,100,light,medium,worst_bps,Mbps,N-grid,N-margin,-0.246372125,-0.254494544,-0.238249705
+second,100,light,medium,worst_bps,Mbps,R-grid,R-margin,-0.00046448018,-0.00137914055,0.000450180194
+second,100,light,medium,worst_bps,Mbps,N-grid,R-grid,-0.245907644,-0.254131842,-0.237683446
+second,100,light,medium,worst_bps,Mbps,N-margin,R-margin,0,0,0
+second,100,light,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,100,light,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,100,light,strong,outage,percentage points,N-grid,R-grid,0,0,0
+second,100,light,strong,outage,percentage points,N-margin,R-margin,0,0,0
+second,100,light,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,light,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,light,strong,pooled_bps,Mbps,N-grid,R-grid,0.00518617409,-0.00616287749,0.0165352257
+second,100,light,strong,pooled_bps,Mbps,N-margin,R-margin,0.00518617409,-0.00616287749,0.0165352257
+second,100,light,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,light,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,light,strong,worst_bps,Mbps,N-grid,R-grid,-0.000300578941,-0.00659433875,0.00599318087
+second,100,light,strong,worst_bps,Mbps,N-margin,R-margin,-0.000300578941,-0.00659433875,0.00599318087
+second,100,heavy,weak,outage,percentage points,N-grid,N-margin,9.6915,8.15509287,11.2279071
+second,100,heavy,weak,outage,percentage points,R-grid,R-margin,0.199,0.0477883035,0.350211697
+second,100,heavy,weak,outage,percentage points,N-grid,R-grid,9.4765,7.95702381,10.9959762
+second,100,heavy,weak,outage,percentage points,N-margin,R-margin,-0.016,-0.0446659452,0.0126659452
+second,100,heavy,weak,pooled_bps,Mbps,N-grid,N-margin,-0.0921364545,-0.104515381,-0.079757528
+second,100,heavy,weak,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,heavy,weak,pooled_bps,Mbps,N-grid,R-grid,-0.0921364545,-0.104515381,-0.079757528
+second,100,heavy,weak,pooled_bps,Mbps,N-margin,R-margin,0,0,0
+second,100,heavy,weak,worst_bps,Mbps,N-grid,N-margin,-0.148057752,-0.169632076,-0.126483428
+second,100,heavy,weak,worst_bps,Mbps,R-grid,R-margin,-0.00151457916,-0.00385916128,0.000830002955
+second,100,heavy,weak,worst_bps,Mbps,N-grid,R-grid,-0.147231345,-0.168129619,-0.126333072
+second,100,heavy,weak,worst_bps,Mbps,N-margin,R-margin,-0.00068817264,-0.00228271535,0.000906370066
+second,100,heavy,medium,outage,percentage points,N-grid,N-margin,0,0,0
+second,100,heavy,medium,outage,percentage points,R-grid,R-margin,0,0,0
+second,100,heavy,medium,outage,percentage points,N-grid,R-grid,-0.016,-0.0446659452,0.0126659452
+second,100,heavy,medium,outage,percentage points,N-margin,R-margin,-0.016,-0.0446659452,0.0126659452
+second,100,heavy,medium,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,heavy,medium,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,heavy,medium,pooled_bps,Mbps,N-grid,R-grid,0.00371939758,-0.00381940427,0.0112581994
+second,100,heavy,medium,pooled_bps,Mbps,N-margin,R-margin,0.00371939758,-0.00381940427,0.0112581994
+second,100,heavy,medium,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,heavy,medium,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,heavy,medium,worst_bps,Mbps,N-grid,R-grid,0.000102295493,-0.00327571461,0.00348030559
+second,100,heavy,medium,worst_bps,Mbps,N-margin,R-margin,0.000102295493,-0.00327571461,0.00348030559
+second,100,heavy,strong,outage,percentage points,N-grid,N-margin,0,0,0
+second,100,heavy,strong,outage,percentage points,R-grid,R-margin,0,0,0
+second,100,heavy,strong,outage,percentage points,N-grid,R-grid,-0.016,-0.0446659452,0.0126659452
+second,100,heavy,strong,outage,percentage points,N-margin,R-margin,-0.016,-0.0446659452,0.0126659452
+second,100,heavy,strong,pooled_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,heavy,strong,pooled_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,heavy,strong,pooled_bps,Mbps,N-grid,R-grid,0.00371939758,-0.00381940427,0.0112581994
+second,100,heavy,strong,pooled_bps,Mbps,N-margin,R-margin,0.00371939758,-0.00381940427,0.0112581994
+second,100,heavy,strong,worst_bps,Mbps,N-grid,N-margin,0,0,0
+second,100,heavy,strong,worst_bps,Mbps,R-grid,R-margin,0,0,0
+second,100,heavy,strong,worst_bps,Mbps,N-grid,R-grid,0.000102295493,-0.00327571461,0.00348030559
+second,100,heavy,strong,worst_bps,Mbps,N-margin,R-margin,0.000102295493,-0.00327571461,0.00348030559

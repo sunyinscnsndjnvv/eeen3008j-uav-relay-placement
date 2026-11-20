@@ -1,0 +1,5 @@
+build/
+*.class
+__pycache__/
+margin_study/rebuilt*/
+figures/
